@@ -1,44 +1,89 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Aplicación Tesla Clone con React JS
 
-## Available Scripts
+_En esta oportunidad hemos realizado el clone de la pagina de Tesla en React JS_
 
-In the project directory, you can run:
+## Comenzando 🚀
 
-### `yarn start`
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Mira **Deployment** para conocer como desplegar el proyecto.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+### Pre-requisitos 📋
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+_Antes de poder ejecutar este poryecto necesitas instalar_ [React JS](https://es.reactjs.org/)
 
-### `yarn build`
+### Ejecución 🔧
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+_Procedemos a ejecutar el siguiente comando para levantar el proyecto_
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```
+yarn start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+<!-- 
+## Ejecutando las pruebas ⚙️
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+_Explica como ejecutar las pruebas automatizadas para este sistema_
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Analice las pruebas end-to-end 🔩
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+_Explica que verifican estas pruebas y por qué_
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+Da un ejemplo
+```
 
-## Learn More
+### Y las pruebas de estilo de codificación ⌨️
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+_Explica que verifican estas pruebas y por qué_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+Da un ejemplo
+``` -->
+
+<!-- ## Despliegue 📦
+
+_Agrega notas adicionales sobre como hacer deploy_ -->
+
+## Aplicación Funcionando 📱
+[URL aplicación desplegada](https://tesla-clone-b529c.firebaseapp.com/)
+
+## Construido con 🛠️
+* [React JS](https://es.reactjs.org/) - Libreria
+* [Redux](https://es.redux.js.org/) - Libreria
+
+<!-- ## Contribuyendo 🖇️
+
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests. -->
+
+## Wiki 📖
+
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/renato-ponce98/TeslaClone/wiki)
+
+## Versionado 📌
+
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/renato-ponce98/TeslaClone/tags).
+
+## Autores ✒️
+
+* **Renato Ponce** - *Desarrollo* - [renato-ponce98](https://github.com/renato-ponce98)
+
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/renato-ponce98/TeslaClone/contributors) quíenes han participado en este proyecto. 
+
+<!-- ## Licencia 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles -->
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
+
+
+
+---
+⌨️ con ❤️ por [Strange Code](https://github.com/renato-ponce98) 😊
